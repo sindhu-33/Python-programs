@@ -1,0 +1,16 @@
+2021-08-27 00:50:31,911:server.py:7~<module>~INFO - Socket Created
+2021-08-27 00:50:32,043:server.py:13~<module>~INFO - Waiting for connections
+2021-08-27 00:51:04,111:server.py:7~<module>~INFO - Socket Created
+2021-08-27 00:51:04,115:server.py:13~<module>~INFO - Waiting for connections
+2021-08-27 00:57:46,143:server.py:7~<module>~INFO - Socket Created
+2021-08-27 00:57:46,148:server.py:13~<module>~INFO - Waiting for connections
+2021-08-27 00:58:46,306:client.py:9~<module>~INFO - b'Hi, This is the sample program. My name is sindhu.'
+2021-08-27 01:01:50,508:client.py:9~<module>~INFO - b'Hi, This is the sample program. My name is sindhu.'
+2021-08-27 01:09:34,810:server.py:7~<module>~INFO - Socket Created
+2021-08-27 01:09:34,851:server.py:13~<module>~INFO - Waiting for connections
+2021-08-27 01:09:48,481:server.py:20~<module>~INFO - Connected with:('127.0.0.1', 59288) name is sindhu
+2021-08-27 01:09:48,481:client.py:13~<module>~INFO - b'Hi, This is the sample program. My name is sindhu.'
+2021-08-27 01:09:48,481:client.py:15~<module>~INFO - 
+2021-08-27 01:10:59,406:server.py:20~<module>~INFO - Connected with:('127.0.0.1', 58794) name is vineetha
+2021-08-27 01:10:59,406:client.py:13~<module>~INFO - b'Hi, This is the sample program. My name is sindhu.'
+2021-08-27 01:10:59,407:client.py:15~<module>~INFO - 
