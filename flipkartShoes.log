@@ -1,0 +1,100 @@
+2021-09-06 00:31:03,320:flipkartShoes.py:12~<module>~INFO - <class 'requests.models.Response'>
+2021-09-06 00:31:04,125:flipkartShoes.py:15~<module>~INFO - <class 'bs4.BeautifulSoup'>
+2021-09-06 00:31:04,141:flipkartShoes.py:18~<module>~INFO - [<title>Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com</title>]
+2021-09-06 00:31:04,141:flipkartShoes.py:20~<module>~INFO - Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com
+2021-09-06 00:33:57,744:flipkartShoes.py:12~<module>~INFO - <class 'requests.models.Response'>
+2021-09-06 00:33:57,888:flipkartShoes.py:15~<module>~INFO - <class 'bs4.BeautifulSoup'>
+2021-09-06 00:33:57,902:flipkartShoes.py:18~<module>~INFO - [<title>Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com</title>]
+2021-09-06 00:33:57,902:flipkartShoes.py:20~<module>~INFO - Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com
+2021-09-06 00:34:54,915:flipkartShoes.py:12~<module>~INFO - <class 'requests.models.Response'>
+2021-09-06 00:34:55,049:flipkartShoes.py:15~<module>~INFO - <class 'bs4.BeautifulSoup'>
+2021-09-06 00:34:55,096:flipkartShoes.py:18~<module>~INFO - [<title>Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com</title>]
+2021-09-06 00:34:55,097:flipkartShoes.py:20~<module>~INFO - Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com
+2021-09-06 00:39:40,280:flipkartShoes.py:12~<module>~INFO - <class 'requests.models.Response'>
+2021-09-06 00:39:40,412:flipkartShoes.py:15~<module>~INFO - <class 'bs4.BeautifulSoup'>
+2021-09-06 00:39:40,425:flipkartShoes.py:18~<module>~INFO - [<title>Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com</title>]
+2021-09-06 00:39:40,425:flipkartShoes.py:20~<module>~INFO - Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com
+2021-09-06 00:39:40,442:flipkartShoes.py:27~<module>~INFO - Shozie
+2021-09-06 00:39:40,442:flipkartShoes.py:27~<module>~INFO - MILESWALKER
+2021-09-06 00:39:40,442:flipkartShoes.py:27~<module>~INFO - Chevit
+2021-09-06 00:39:40,442:flipkartShoes.py:27~<module>~INFO - madam glorious
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - CAMPUS
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - SHOPIEE
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - KADY
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - Denill
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - CAMPUS
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - bizwiz
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - AMAZING TRADERS
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - MILESWALKER
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - VENDOZ
+2021-09-06 00:39:40,443:flipkartShoes.py:27~<module>~INFO - RINDAS
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - Paragon
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - Miggler
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - SUKUN
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - Denill
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - 5647
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - TWIN TOES
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - WALKAROO
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - TWIN TOES
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - Shozie
+2021-09-06 00:39:40,444:flipkartShoes.py:27~<module>~INFO - MILESWALKER
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - TOSHINA SHOES KING
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - RINDAS
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - 3SIX5
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - Longwalk
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - KADY
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - POWER
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - Bootco
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - ASIAN
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - PREKANZO
+2021-09-06 00:39:40,445:flipkartShoes.py:27~<module>~INFO - TWIN TOES
+2021-09-06 00:39:40,446:flipkartShoes.py:27~<module>~INFO - Brauch
+2021-09-06 00:39:40,446:flipkartShoes.py:27~<module>~INFO - Brauch
+2021-09-06 00:39:40,446:flipkartShoes.py:27~<module>~INFO - KADY
+2021-09-06 00:39:40,446:flipkartShoes.py:27~<module>~INFO - Denill
+2021-09-06 00:39:40,446:flipkartShoes.py:27~<module>~INFO - SPARX
+2021-09-06 00:39:40,446:flipkartShoes.py:27~<module>~INFO - SUKUN
+2021-09-06 00:51:36,949:flipkartShoes.py:12~<module>~INFO - <class 'requests.models.Response'>
+2021-09-06 00:51:37,042:flipkartShoes.py:15~<module>~INFO - <class 'bs4.BeautifulSoup'>
+2021-09-06 00:51:37,061:flipkartShoes.py:18~<module>~INFO - [<title>Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com</title>]
+2021-09-06 00:51:37,061:flipkartShoes.py:20~<module>~INFO - Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com
+2021-09-06 00:51:37,077:flipkartShoes.py:30~<module>~INFO - Shozie
+2021-09-06 00:51:37,077:flipkartShoes.py:30~<module>~INFO - MILESWALKER
+2021-09-06 00:51:37,077:flipkartShoes.py:30~<module>~INFO - Chevit
+2021-09-06 00:51:37,078:flipkartShoes.py:30~<module>~INFO - madam glorious
+2021-09-06 00:51:37,078:flipkartShoes.py:30~<module>~INFO - SHOPIEE
+2021-09-06 00:51:37,078:flipkartShoes.py:30~<module>~INFO - KADY
+2021-09-06 00:51:37,079:flipkartShoes.py:30~<module>~INFO - Denill
+2021-09-06 00:51:37,079:flipkartShoes.py:30~<module>~INFO - CAMPUS
+2021-09-06 00:51:37,079:flipkartShoes.py:30~<module>~INFO - bizwiz
+2021-09-06 00:51:37,080:flipkartShoes.py:30~<module>~INFO - AMAZING TRADERS
+2021-09-06 00:51:37,080:flipkartShoes.py:30~<module>~INFO - MILESWALKER
+2021-09-06 00:51:37,080:flipkartShoes.py:30~<module>~INFO - VENDOZ
+2021-09-06 00:51:37,081:flipkartShoes.py:30~<module>~INFO - RINDAS
+2021-09-06 00:51:37,081:flipkartShoes.py:30~<module>~INFO - Miggler
+2021-09-06 00:51:37,081:flipkartShoes.py:30~<module>~INFO - SUKUN
+2021-09-06 00:51:37,082:flipkartShoes.py:30~<module>~INFO - Denill
+2021-09-06 00:51:37,082:flipkartShoes.py:30~<module>~INFO - CAMPUS
+2021-09-06 00:51:37,082:flipkartShoes.py:30~<module>~INFO - 5647
+2021-09-06 00:51:37,083:flipkartShoes.py:30~<module>~INFO - WALKAROO
+2021-09-06 00:51:37,083:flipkartShoes.py:30~<module>~INFO - TWIN TOES
+2021-09-06 00:51:37,083:flipkartShoes.py:30~<module>~INFO - TWIN TOES
+2021-09-06 00:51:37,084:flipkartShoes.py:30~<module>~INFO - Shozie
+2021-09-06 00:51:37,084:flipkartShoes.py:30~<module>~INFO - MILESWALKER
+2021-09-06 00:51:37,084:flipkartShoes.py:30~<module>~INFO - TOSHINA SHOES KING
+2021-09-06 00:51:37,084:flipkartShoes.py:30~<module>~INFO - RINDAS
+2021-09-06 00:51:37,085:flipkartShoes.py:30~<module>~INFO - 3SIX5
+2021-09-06 00:51:37,085:flipkartShoes.py:30~<module>~INFO - Longwalk
+2021-09-06 00:51:37,085:flipkartShoes.py:30~<module>~INFO - Paragon
+2021-09-06 00:51:37,086:flipkartShoes.py:30~<module>~INFO - KADY
+2021-09-06 00:51:37,086:flipkartShoes.py:30~<module>~INFO - POWER
+2021-09-06 00:51:37,086:flipkartShoes.py:30~<module>~INFO - Bootco
+2021-09-06 00:51:37,087:flipkartShoes.py:30~<module>~INFO - ASIAN
+2021-09-06 00:51:37,087:flipkartShoes.py:30~<module>~INFO - PREKANZO
+2021-09-06 00:51:37,087:flipkartShoes.py:30~<module>~INFO - TWIN TOES
+2021-09-06 00:51:37,088:flipkartShoes.py:30~<module>~INFO - Brauch
+2021-09-06 00:51:37,088:flipkartShoes.py:30~<module>~INFO - Brauch
+2021-09-06 00:51:37,088:flipkartShoes.py:30~<module>~INFO - SPARX
+2021-09-06 00:51:37,089:flipkartShoes.py:30~<module>~INFO - KADY
+2021-09-06 00:51:37,089:flipkartShoes.py:30~<module>~INFO - Denill
+2021-09-06 00:51:37,089:flipkartShoes.py:30~<module>~INFO - SUKUN

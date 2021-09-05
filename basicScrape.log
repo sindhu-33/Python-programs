@@ -1,0 +1,5 @@
+2021-09-05 01:05:56,600:basicScrape.py:11~<module>~INFO - <class 'requests.models.Response'>
+2021-09-05 01:06:55,373:basicScrape.py:11~<module>~INFO - <class 'requests.models.Response'>
+2021-09-05 01:06:55,511:basicScrape.py:14~<module>~INFO - <class 'bs4.BeautifulSoup'>
+2021-09-05 01:06:55,530:basicScrape.py:17~<module>~INFO - [<title>Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com</title>]
+2021-09-05 01:06:55,530:basicScrape.py:19~<module>~INFO - Shoes For Women - Buy Ladies Shoes, Women's Footwear Online At Best Prices in India - Flipkart.com
