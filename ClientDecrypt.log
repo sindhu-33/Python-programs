@@ -1,3 +1,0 @@
-2021-09-07 13:27:59,338:ClientDecrypt.py:16~<module>~INFO - The encrypted message received is b'gAAAAABhNxuH7rxMj9MFIlblCx5cbSAp8wiWZLr0ST03MhsNIFRJGpYkfSU2_N-M-NYkI0oUEOa-NKuSj0x1eWNdIXDgZJt_MrsHFs2gqspu9Upl2DSuG98='
-2021-09-07 13:27:59,344:ClientDecrypt.py:23~<module>~INFO - The key using for decryption is b'F27bUcRZWp2JunIGK55DvSi_zK6G36HzL-G0Y9d7OtA='
-2021-09-07 13:27:59,465:ClientDecrypt.py:28~<module>~INFO - The decrypted message is b'My name is sindhu'
