@@ -1,0 +1,6 @@
+2021-09-07 13:43:29,819:ServerEncrypt.py:8~<module>~INFO - Socket Created
+2021-09-07 13:43:29,824:ServerEncrypt.py:14~<module>~INFO - Waiting for connections
+2021-09-07 13:44:27,574:ServerEncrypt.py:21~<module>~INFO - Connected with:('127.0.0.1', 64916) name is Jyotsna
+2021-09-07 13:44:27,574:ServerEncrypt.py:25~<module>~INFO - Generated key is b'2qqpsC-eGhB61kuo6vefDAJfwwvcFQgXr9d4mOdrKX4='
+2021-09-07 13:44:27,576:ServerEncrypt.py:34~<module>~INFO - The message passing to the client is b'My name is sindhu'
+2021-09-07 13:44:27,688:ServerEncrypt.py:39~<module>~INFO - the encrypted message is b'gAAAAABhNx9jgi6vIsSiqglbPkZvDvF_SAMzJ8TiZzzPqnZv12dW8USZe7yFhGEfiZ3BY_TC7g0VeMZpfH09jtSTHEYZcthgGwwDLbmvwvTYiwd8lKMdBKU='
