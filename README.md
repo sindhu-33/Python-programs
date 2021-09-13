@@ -1,2 +1,1 @@
-# Python-programs
-python programs to cover the basic concepts of python.
+Cipher program is a basic encryption and decryption of a string using caesar cipher. The ServerCipher program encrypts a string taken from the user and sends it to the connected client with help of socketprogramming. The ClientCipher programs takes the string from server and decrypts it with help of socketprogramming and caesar cipher.
