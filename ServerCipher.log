@@ -1,0 +1,9 @@
+2021-09-12 23:58:37,937:ServerCipher.py:9~<module>~INFO - Socket Created
+2021-09-12 23:58:37,942:ServerCipher.py:15~<module>~INFO - Waiting for connections
+2021-09-12 23:58:47,986:ServerCipher.py:22~<module>~INFO - Connected with:('127.0.0.1', 53252) name is sindhu
+2021-09-12 23:58:52,326:ServerCipher.py:25~<module>~INFO - The shift number taken from user is 10
+2021-09-12 23:58:58,111:ServerCipher.py:34~<module>~INFO - The message passing to the client is <socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9223)>
+2021-09-12 23:58:58,111:ServerCipher.py:48~<module>~INFO - The encrypted message for ['r', 'o', 'v', 'v', 'y'] is rovvy
+2021-09-12 23:58:58,111:ClientCipher.py:17~<module>~INFO - The encrypted message received is rovvy
+2021-09-12 23:58:58,112:ClientCipher.py:24~<module>~INFO - The shift number using for decryption is 10
+2021-09-12 23:58:58,113:ClientCipher.py:36~<module>~INFO - The decrypted message for ['h', 'e', 'l', 'l', 'o'] is hello

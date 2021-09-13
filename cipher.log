@@ -1,0 +1,8 @@
+2021-09-12 23:33:50,165:cipher.py:7~<module>~INFO - The string taken from user is ['s', 'i', 'n', 'd', 'h', 'u']
+2021-09-12 23:33:55,677:cipher.py:10~<module>~INFO - The shift number taken from user is 12
+2021-09-12 23:34:00,481:cipher.py:29~<module>~INFO - The encrypted message for ['e', 'u', 'z', 'p', 't', 'g'] is euzptg
+2021-09-12 23:34:04,873:cipher.py:40~<module>~INFO - The decrypted message for ['s', 'i', 'n', 'd', 'h', 'u'] is sindhu
+2021-09-12 23:34:43,181:cipher.py:47~<module>~INFO - The string taken from user is ['j', 'y', 'o', 't', 's', 'n', 'a']
+2021-09-12 23:34:46,749:cipher.py:50~<module>~INFO - The shift number taken from user is 14
+2021-09-12 23:34:49,867:cipher.py:29~<module>~INFO - The encrypted message for ['x', 'm', 'c', 'h', 'g', 'b', 'o'] is xmchgbo
+2021-09-12 23:34:51,281:cipher.py:40~<module>~INFO - The decrypted message for ['j', 'y', 'o', 't', 's', 'n', 'a'] is jyotsna
