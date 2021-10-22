@@ -1,1 +1,1 @@
-This is a basic version of notes application. We can add the required points which has to be noted down. We can also delete the points which are not required. I have made this application using angularjs.
+This is a basic version of notes application. We can add the required points which has to be noted down. We can also delete the points which are not required. I have made this application using angularjs.I have also tried to implement errors. If we try to add the same point twice in the application then it shows an error.
