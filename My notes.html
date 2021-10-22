@@ -2,7 +2,6 @@
 <html>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
 <body>
-
 <script>
 var app=angular.module("My notes",[]); 
 app.controller("myCtrl", function($scope) {
@@ -24,7 +23,7 @@ app.controller("myCtrl", function($scope) {
 </script>
 <div ng-app="My notes" ng-controller="myCtrl">
   <ul>
-    <li ng-repeat="x in products">{{x}}<span ng-click="removeItem($index)">×</span></li>
+    <li ng-repeat="x in products">{{x}}<span ng-click="removeItem($index)">Ã—</span></li>
   </ul>
   <input ng-model="addMe">
   <button ng-click="addItem()">Add</button>
